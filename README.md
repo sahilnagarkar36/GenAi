@@ -1,0 +1,2 @@
+# GenAi
+All GenAi assingment
